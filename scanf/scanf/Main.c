@@ -1,3 +1,15 @@
+//------------------------------------------------------------------------------
+//
+//    Copyright (C) Wang Yanna. All rights reserved.
+//
+//    File Name:   Main.c
+//    Author:      Wang Yanna
+//    Create Time: 2015-08-15
+//    Description: 
+//
+//------------------------------------------------------------------------------
+
+
 #include <stdio.h>
 
 int power(int a, int b)
