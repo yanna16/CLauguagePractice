@@ -4,6 +4,7 @@
 bool is_prime(int n)
 {
     int i = 2;
+    //其实这里可以只除2和3、5等奇数
     for (i = 2; i < n / 2; i++)
     {
         if (n % i == 0)
